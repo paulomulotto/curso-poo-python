@@ -24,6 +24,7 @@ class Automovel:
         self.qtdd_pneus = qtdd_pneus
 
 if __name__ == "__main__":
+    # Criando objetos da classe Automovel
     auto1 = Automovel("Honda", "ABC1234", 2, 4)
     auto2 = Automovel("Ford", "ABD1235", 4, 4)
     auto3 = Automovel("Ford", "ABF1236", 4, 4)
